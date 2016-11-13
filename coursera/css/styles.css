@@ -1,0 +1,9 @@
+.navbar-header { padding: 0 17px; }
+.navbar-nav > li > a { text-align: center; }
+#nav-list li:nth-child(2) {
+  border-bottom: 1px solid #e7e7e7;
+  border-top: 1px solid #e7e7e7;
+}
+
+h1 { margin-bottom: 20px; }
+.inner-content { padding: 4px 15px 15px;margin-bottom:20px;background-color: #fafafa;border: 1px solid #eaeaea; }
